@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps to run the app
+
+In the project directory, please run below commands
+
+### `yarn install:all`
+
+It will install dependency for the UI app as well as mock stub server that is needed to get the data.
+
+### `yarn mock`
+
+This will start the mock server on port `8081`;
+
+After this step please follow below script to start the app
+
 ## Available Scripts
 
 In the project directory, you can run:
